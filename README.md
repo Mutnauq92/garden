@@ -21,7 +21,8 @@ python -m pip install spacy
 pip show spacy
 ```  
 - Results should be similar to the following  
-<img src="spacy_confirm.png" width="600px">
+<img src="spacy_confirm.png" width="600px">  
+
 - To download English Model, enter the following command:
 ```  
 python -m spacy download en_core_web_sm 
