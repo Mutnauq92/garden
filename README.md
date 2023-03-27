@@ -2,7 +2,8 @@
 GPS - <i style="color:orange;">Pun intended</i>
 
 This is a simple program that enumerates all sentences -  
-in a sentence list and tokenize each one.  
+in a sentence list and tokenize each one, then  
+perform entity recognition for each sentence.  
   
 # Tools
 <a href="https://www.python.org/downloads/" target="_blank"><span style="color:orange;">Python</span></a>  
